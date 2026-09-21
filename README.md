@@ -31,3 +31,7 @@ Run the cell, pick an image, then click **Proses RLE** to process it.
 ## Tech stack
 
 Python, NumPy, Pillow, Matplotlib, ipywidgets
+
+## License
+
+Released under the [MIT License](LICENSE).
